@@ -1,6 +1,6 @@
 import mysql.connector as mysql
 
-db = mysql.connect(host="localhost", user="root", password="ambross1914", database="college")
+db = mysql.connect(host="localhost", user="root", password="xxxxxxxxxx", database="college")
 command_handler = db.cursor(buffered=True)
 
 def admin_session():
