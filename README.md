@@ -1,2 +1,2 @@
 # College-Admin-Manager
-A simple college management system written in Python3 that uses a database in MySQL.
+A simple college admin login console that gives different privileges based on who is logs in. Admin can register and delete new users that updates a database in MySQL.
